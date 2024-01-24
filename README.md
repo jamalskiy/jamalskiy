@@ -5,7 +5,8 @@
 <h1 align="center">Привет 👋, я Jamalskiy</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamalskiy&label=Profile&color=0e75b6&style=flat" alt="jamalskiy" /> </p>
 
-- 🔭 В настоящее время я работаю над [Weather web-app](https://github.com/jamalskiy/thesis-website-for-viewing-the-weather)
+- 🔭 Завершённые проекты:
+     - [Weather web-app](https://github.com/jamalskiy/thesis-website-for-viewing-the-weather)
 
 
 <h3 align="left">Языки и инструменты:</h3>
