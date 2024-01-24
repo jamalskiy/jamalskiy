@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="giphy.webp" alt="Coding GIF" />
+</p>
+
 <h1 align="center">Привет 👋, я Jamalskiy</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamalskiy&label=Profile%20views&color=0e75b6&style=flat" alt="jamalskiy" /> </p>
 
