@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="giphy.webp" alt="Coding GIF" />
+  <img src="gif/giphy.webp" alt="Coding GIF" />
 </p>
 
 <h1 align="center">Привет 👋, я Jamalskiy</h1>
@@ -14,5 +14,5 @@
 
 
 <p align="center">
-  <img src="giphy1.webp" alt="Coding GIF" />
+  <img src="gif/giphy1.webp" alt="Coding GIF" />
 </p>
