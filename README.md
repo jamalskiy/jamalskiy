@@ -7,8 +7,10 @@
 
 - 🔭 Завершённые проекты:
      - [Weather web-app](https://github.com/jamalskiy/thesis-website-for-viewing-the-weather)
-- 🔭 Новые проекты:
      - [Погода2.0](https://github.com/jamalskiy/thesis-work2.0.git)
+- 🔭 Новые проекты:
+     - [Погода3.0](https://github.com/jamalskiy/thesis-work3.0.git)
+ 
 
 
 <h3 align="left">Языки и инструменты которые я знаю на 50%(min):</h3>
